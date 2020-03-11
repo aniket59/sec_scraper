@@ -4,3 +4,5 @@ web scraper that scrapes sec.gov website
 
 ### Requirements
 python 3.7
+BeautifulSoup4
+Requests
